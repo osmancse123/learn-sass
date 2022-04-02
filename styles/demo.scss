@@ -47,7 +47,7 @@ $colors: (color1: red, color2: blue, color3: yellow);
        font-size: 10px;
    } 
    @else if $value == medium {
-       font-size: 15px;
+       font-size: 16px;
    } 
    @else if $value == large {
        font-size: 20px;
