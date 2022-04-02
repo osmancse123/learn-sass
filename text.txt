@@ -1,0 +1,8 @@
+1. introduction scss
+2. scss variables and nesting
+3. import and _partials
+4. mixin and include
+5. extend and inheritence
+6. @if, @elseif, @else
+7. loop in scss, @for, @while
+8. map over items using @each
